@@ -1,0 +1,25 @@
+7;Системы счисления;https://youtu.be/mpCO-nNy5OY
+7;Электронные таблицы;https://youtu.be/TQeoUJVlLx4
+7;Текстовые редакторы;https://youtu.be/5VNURVv1oMY
+8;Кодирование графики;https://youtu.be/OkvVbIkcth0
+8;Кодирование звука;https://youtu.be/RV8OSlhU-VE
+8;Формула Хартли;https://youtu.be/-O5ZqIIWZCQ
+8;Уравнения в таблицах;https://youtu.be/Sk2uVz_gnSk
+8;Условие Фано;https://youtu.be/zCgeNlGvIBA
+9;Алгебра логики;https://youtu.be/E5_OVbhjH7k
+9;Базы данных;https://youtu.be/KX2EpQ4l1Qc
+9;Комбинаторика;https://youtu.be/JM3lnq5S1xs
+10;Программирование;https://youtu.be/VJAk56Fmp6A
+10;Циклы;https://youtu.be/wd-eMNEOyEk
+10;Процедуры и функции;https://youtu.be/ExYtpJ-vhK0
+10;Базовые алгоритмы;https://youtu.be/Syd1_rPgiPU
+10;Алгебра логики (ДЕЛ);https://youtu.be/KTL_JiSjixw
+10;Алгебра логики (Отрезки);https://youtu.be/K3IKmF8BOj4
+10;Алгебра логики (Графики);https://youtu.be/jjWeKz6hFxQ
+10;Алгебра логики (Конъюнкция);https://youtu.be/0bCzePUZIsY
+11;Сложное программирование;https://youtu.be/1P3ZinPFeXA
+11;Рекурсия;https://youtu.be/5O-gxjt5c_g
+11;Динамическое программирование;https://youtu.be/WemtNt9p3FE
+11;Написание программ;https://youtu.be/pR-7mNsjfKA
+11;Строковая обработка;https://youtu.be/5gwv6PEXRHk
+11;Эффективное программирование;https://youtu.be/YJt7x9zYM3g
